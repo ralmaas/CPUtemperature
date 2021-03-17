@@ -1,3 +1,0 @@
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\CPUtemperature.exe
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\M2Mqtt.Net.dll
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\OpenHardwareMonitorLib.dll
