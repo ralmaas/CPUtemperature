@@ -8,6 +8,6 @@ Since the Service is being run on a Laptop that is used on two different network
 ## Testing
 This code has been verified on both Intel and AMD CPU.
 
->'roar@nsi:~$ mosquitto_sub -h localhost -t Asus/# -v'
->'Asus/Temp/CPU 51'
->'Asus/Temp/CPU 53'
+> 'roar@nsi:~$ mosquitto_sub -h localhost -t Asus/# -v'
+> 'Asus/Temp/CPU 51'
+> 'Asus/Temp/CPU 53'
