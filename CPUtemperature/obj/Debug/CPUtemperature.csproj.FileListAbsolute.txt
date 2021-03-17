@@ -1,0 +1,9 @@
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe.config
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.pdb
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.csprojAssemblyReference.cache
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.ProjectInstaller.resources
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.csproj.GenerateResource.cache
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.csproj.CoreCompileInputs.cache
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.exe
+C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Debug\CPUtemperature.pdb

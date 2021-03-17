@@ -1,0 +1,26 @@
+﻿Installing assembly 'C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe
+   logfile = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.InstallLog
+Rolling back assembly 'C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe
+   logfile = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe
+   logfile = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.InstallLog
+Rolling back assembly 'C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.exe
+   logfile = C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Debug\CPUtemperature.InstallLog
+An exception occurred during the Rollback phase of the System.ServiceProcess.ServiceProcessInstaller installer.
+System.NullReferenceException: Object reference not set to an instance of an object.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
