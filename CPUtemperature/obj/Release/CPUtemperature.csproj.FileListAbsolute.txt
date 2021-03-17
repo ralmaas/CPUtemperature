@@ -1,13 +1,3 @@
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\CPUtemperature.exe.config
 C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\CPUtemperature.exe
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\CPUtemperature.pdb
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.csprojAssemblyReference.cache
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.ProjectInstaller.resources
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.csproj.GenerateResource.cache
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.csproj.CoreCompileInputs.cache
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.exe
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.pdb
 C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\M2Mqtt.Net.dll
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\M2Mqtt.Net.pdb
-C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\obj\Release\CPUtemperature.csproj.CopyComplete
 C:\Users\roara\source\repos\CPUtemperature\CPUtemperature\bin\Release\OpenHardwareMonitorLib.dll
