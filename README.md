@@ -1,4 +1,7 @@
 # CPUtemperature
+
+## Please check CPUtemp, it is a replacement for this Service....
+
 A small Windows Service program used for reporting the CPU temperature using MQTT at regular intervals.
 
 Two NuGet packages used: M2Mqtt(4.3.0.0) and OpenHardwareMonitorLib (0.7.1.0).
